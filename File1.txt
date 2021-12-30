@@ -1,7 +1,7 @@
 Hello World !!!
-Change - added.
-Change - done by team mate
+Change 1 - added.
+Change 2 - done by team mate
 bug2 fixed
-Change - for stash in WI4
-Change - for WI6 on local master to test normal.
-
+Change 3 - for stash in WI4
+Change 4 - for WI6 on local master to test normal.
+Change 5 - by teammate on remote master for bug3.
