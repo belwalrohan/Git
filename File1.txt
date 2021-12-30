@@ -5,3 +5,6 @@ bug2 fixed
 Change 3 - for stash in WI4
 Change 4 - for WI6 on local master to test normal.
 Change 5 - by teammate on remote master for bug3.
+Change 6 - for stash in WI4
+Change 7 - for WI6 on local master to test normal.
+Change 8 - on local master for WI7
